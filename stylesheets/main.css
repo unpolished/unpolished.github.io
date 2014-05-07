@@ -173,8 +173,12 @@ h1,h2,h3,h4,h5,h6{
 	background:#fff;
 }
 .main-logo{
+  height: 55px;
 	margin-top: 10px;
 	margin-bottom: 10px;
+}
+.footer-logo{
+  height: 64px;
 }
 .standard-nav {
     float: right;
