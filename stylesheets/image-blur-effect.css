@@ -18,7 +18,7 @@ background-size: cover !important;
 .blurred { opacity:0;}*/
 
 .image-wrap-01 .regular {background:url(../images/hero2.jpg) no-repeat center center; }
-.image-wrap-01 .blurred { background:url(../images/hero2-blurred.jpg) no-repeat center center; }
+.image-wrap-01 .blurred {background:url(../images/hero2-blurred.jpg) no-repeat center center; }
 
 
 .image-wrap-02 .regular {background:url(http://placehold.it/1500x1000) no-repeat center center; }
